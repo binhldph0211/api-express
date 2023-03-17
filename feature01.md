@@ -83,4 +83,5 @@ updated_at datetime
             </div>
           </div>
         </footer>
+  </div>     
 ```
