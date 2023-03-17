@@ -27,7 +27,7 @@ updated_at datetime
 
 
 
-
+```
  <div className="wrapper">
         <header className="header">
           <div className="container">
@@ -83,3 +83,4 @@ updated_at datetime
             </div>
           </div>
         </footer>
+```
